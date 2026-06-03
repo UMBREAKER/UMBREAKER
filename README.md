@@ -13,6 +13,6 @@
 
  <img width="1133" height="411" alt="IMG_2667" src="https://github.com/user-attachments/assets/66926ec0-5639-4e1b-b3c4-947658dcfcca" />
 
- <p align="center">He's so beatiful here PLS SAVE HIM THIS INSTANT.</p>
+ <p align="center">He's so beautiful here PLS SAVE HIM THIS INSTANT.</p>
 
 
