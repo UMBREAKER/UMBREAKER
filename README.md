@@ -5,14 +5,10 @@
 </div>
 
 
-<img width="1179" height="952" alt="Untitled394_20260531224803" src="https://github.com/user-attachments/assets/4e7ac167-5bad-4578-a7a7-0dd3d707338c" />
+<img width="2048" height="2048" alt="Untitled399_20260604004019" src="https://github.com/user-attachments/assets/21b5677e-c59e-4113-b694-063af63c66cc" />
 
 ***
-**<p align="center">//168 MANGA SPOILER.</p>**
 
-
- <img width="1133" height="411" alt="IMG_2667" src="https://github.com/user-attachments/assets/66926ec0-5639-4e1b-b3c4-947658dcfcca" />
-
- <p align="center">He's so beautiful here PLS SAVE HIM THIS INSTANT.</p>
+ <p align="center">We get it Enjin</p>
 
 
