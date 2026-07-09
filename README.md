@@ -42,4 +42,4 @@ $${\color{#ffffff}he . him}$$
 
 </div>
 
-[straw](https://hallucinatedworld.straw.page/)
+
