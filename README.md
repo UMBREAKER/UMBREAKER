@@ -17,7 +17,11 @@
 
 </div>
 
+<div align="center">
+ 
 $${\color{#ffffff}hansel}$$
+
+</div>
 
 <div align="center">
  
@@ -26,9 +30,11 @@ $${\color{#ffffff}hansel}$$
 
 </div>
 
-           
-   $${\color{#ffffff}he . him}$$
+<div align="center">
  
+$${\color{#ffffff}he . him}$$
+
+</div>
  
  
 <div align="center">
