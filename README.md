@@ -62,6 +62,13 @@ screenshots taken by [yoomi](https://github.com/itsyoomi)
 
 <img width="390" height="320" alt="Screenshot_20260711-195837_1" src="https://github.com/user-attachments/assets/5cf1e855-d9e5-4aee-9b18-8eb9d334f25f" />
 
+<img width="720" height="489" alt="305f0904-8ac1-40cc-b988-1fdc85abb2e3" src="https://github.com/user-attachments/assets/f87eb267-5be0-4578-af44-df5542fc75a6" />
+
+
+<img width="720" height="247" alt="Screenshot_20260705-210002_1" src="https://github.com/user-attachments/assets/8384766b-78a8-494f-90c2-2565207d0125" />
+
+
+<img width="720" height="757" alt="9dda6a34-1cbb-41cf-909f-81a7862be03e" src="https://github.com/user-attachments/assets/66ccb844-68cd-46a3-a86a-e28da77fb0c4" />
 
 
 THAJK U for this AWESOME edit [LAV](https://github.com/holysilas)
