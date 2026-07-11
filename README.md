@@ -67,7 +67,10 @@ screenshots taken by [yoomi](https://github.com/itsyoomi)
 THAJK U for this AWESOME edit [LAV](https://github.com/holysilas)
 
 
-https://github.com/user-attachments/assets/74000340-51c3-47da-95cf-718657e2c0e5
+
+<https://github.com/user-attachments/assets/f4b93f05-343c-4eed-a19e-a3d0cee8f980>
+
+
 
 </div>
 
