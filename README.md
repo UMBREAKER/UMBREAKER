@@ -43,4 +43,31 @@ $${\color{#ffffff}he . him}$$
 
 </div>
 
+***
+
+<div align="center">
+ 
+AWESOME SHIT FROM OOMFS I THINK
+(They're awesome ok lowk hms)
+
+screenshots taken by [yoomi](https://github.com/itsyoomi)
+
+<img width="597" height="305" alt="Screenshot_20260704-192506_1" src="https://github.com/user-attachments/assets/421132a6-ad37-49de-957c-f2dfbceeb7bd" />
+
+
+
+<img width="364" height="209" alt="Screenshot_20260710-234150_1" src="https://github.com/user-attachments/assets/201fd726-3d2b-4757-a608-01952022fa51" />
+
+
+
+<img width="390" height="320" alt="Screenshot_20260711-195837_1" src="https://github.com/user-attachments/assets/5cf1e855-d9e5-4aee-9b18-8eb9d334f25f" />
+
+
+
+THAJK U for this AWESOME edit [LAV](https://github.com/holysilas)
+
+
+https://github.com/user-attachments/assets/74000340-51c3-47da-95cf-718657e2c0e5
+
+</div>
 
