@@ -16,8 +16,8 @@
 <img width="1500" height="429" alt="Untitled444_20260718222744" src="https://github.com/user-attachments/assets/3034f915-6308-49a8-83da-244889b3e13c" />
 
 
-$${/color{#744229}}$$
 
+$${\color{#744229}yupp}$$
 
 div align="center">
  
