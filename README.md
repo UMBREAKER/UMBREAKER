@@ -18,7 +18,7 @@
 
 <div align="center">
  
-$${\color{#744229}霊幻新隆}$$
+$${\color{#371D12}霊}$$$${\color{#744229}幻}$$$${\color{#835239}新}$$$${\color{#BEC1AB}隆}$$
 
 </div>
 
