@@ -13,7 +13,8 @@
 
 <div align="center">
  
-<img width="736" height="736" alt="1000013555" src="https://github.com/user-attachments/assets/cbdd0bbd-9532-4169-9317-6d66c2369ce8" />
+<img width="1500" height="429" alt="Untitled444_20260718222744" src="https://github.com/user-attachments/assets/3034f915-6308-49a8-83da-244889b3e13c" />
+
 
 </div>
 
@@ -25,7 +26,8 @@ $${\color{#ffffff}hansel}$$
 
 <div align="center">
  
-<img width="20" height="20" alt="IMG_3078" src="https://github.com/user-attachments/assets/1b32bc12-58e3-4759-829f-f2eaa02b5a58" /> <img width="75" height="20" alt="IMG_3077" src="https://github.com/user-attachments/assets/9eaa7905-3f75-4a78-b336-a3fb666f48c9" /> 
+<img width="845" height="490" alt="Untitled443_20260718212634" src="https://github.com/user-attachments/assets/d4243b8b-5d14-439d-a477-a68c156a73ed" />
+
 
 
 </div>
@@ -35,11 +37,18 @@ $${\color{#ffffff}hansel}$$
 $${\color{#ffffff}he . him}$$
 
 </div>
- 
- 
+
 <div align="center">
  
-<img width="293" height="123" alt="1000013644" src="https://github.com/user-attachments/assets/dd037576-b3e8-41f0-b141-2d5623b7db23" />
+<img width="99" height="56" alt="IMG_3158" src="https://github.com/user-attachments/assets/fbee8bac-bcb6-4963-b89d-9b6d5e17f690" />
+<img width="99" height="56" alt="IMG_3166" src="https://github.com/user-attachments/assets/256bec45-1577-490e-aa0e-fb1627a1333a" />
+
+</div>
+
+<div align="center">
+ 
+<img width="1500" height="429" alt="Untitled444_20260718224103" src="https://github.com/user-attachments/assets/2ef9997a-b15e-492e-b152-30474d0dfce3" />
+
 
 </div>
 
