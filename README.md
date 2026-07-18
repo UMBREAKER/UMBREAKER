@@ -51,12 +51,3 @@ $${\color{#371D12}霊}$$$${\color{#744229}幻}$$$${\color{#835239}新}$$$${\colo
 </div>
 
 
-screenshots taken by [yoomi](https://github.com/itsyoomi)
-
-THAJK U for this AWESOME edit [LAV](https://github.com/holysilas)
-
-
-
-
-</div>
-
