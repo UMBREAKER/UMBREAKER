@@ -21,7 +21,7 @@
 | [alex](https://github.com/zoobpex) | [lav](https://github.com/holysilas) | [yoomi](https://github.com/itsyoomi) |
 | :--- | ---: | :---: |
 | [shino](https://github.com/0rganslover) | [ren](https://github.com/nvthingmore) | [andre](https://github.com/itsmeandrel) |
-| [ken](https://github.com/kennethwhen) | [dani](https://github.com/FORZA-FERRARI) | ♡ |
+| [ken](https://github.com/kennethwhen) | [dani](https://github.com/FORZA-FERRARl) | ♡ |
 
 </div>
 
