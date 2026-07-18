@@ -18,10 +18,15 @@
 
 </div>
 
-<div align="center">
+<div align="left">
  
-$${\color{#724128}hansel}$$
-$${\color{#B8A38C}he . him}$$
+$${\color{#724128}spirit and}$$
+
+</div>
+
+<div align="right">
+ 
+$${\color{#B8A38C}such consultation}$$
 
 </div>
 
