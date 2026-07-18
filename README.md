@@ -18,19 +18,19 @@
 </div>
 
 
- <p align="left">
+<p align="left">
   
 $${\color{#241213}spirit}$$ 
 
 </p>
 
- <p align="right">
+<p align="right">
   
 $${\color{#5F2D21}and}$$
 
- </p>
+</p>
  
- <p align="left">
+<p align="left">
   
 $${\color{#9C6C53}such}$$ 
 
