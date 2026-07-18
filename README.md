@@ -20,9 +20,9 @@
 
 
  
-$${\color{#724128}spirit and}$$
+$${\color{#241213}spirit}$$ $${\color{#5F2D21}and}$$
  
-$${\color{#B8A38C}such consultation}$$
+$${\color{#9C6C53}such}$$ $${\color{#D0D4D4}consultation}$$
 
 
 
