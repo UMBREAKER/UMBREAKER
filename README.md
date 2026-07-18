@@ -15,22 +15,37 @@
  
 <img width="1500" height="429" alt="Untitled444_20260718222744" src="https://github.com/user-attachments/assets/3034f915-6308-49a8-83da-244889b3e13c" />
 
-
 </div>
 
 
- 
-$${\color{#241213}spirit}$$ $${\color{#5F2D21}and}$$
- 
-$${\color{#9C6C53}such}$$ $${\color{#D0D4D4}consultation}$$
+ <p align="left">
+  
+$${\color{#241213}spirit}$$ 
 
+</p>
+
+ <p align="right">
+  
+$${\color{#5F2D21}and}$$
+
+ </p>
+ 
+ <p align="left">
+  
+$${\color{#9C6C53}such}$$ 
+
+</p>
+
+<p align="right">
+ 
+$${\color{#D0D4D4}consultation}$$
+
+</p>
 
 
 <div align="center">
  
 <img width="845" height="490" alt="Untitled443_20260718212634" src="https://github.com/user-attachments/assets/d4243b8b-5d14-439d-a477-a68c156a73ed" />
-
-
 
 </div>
 
