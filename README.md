@@ -18,17 +18,13 @@
 
 </div>
 
-<div align="left">
+
  
 $${\color{#724128}spirit and}$$
-
-</div>
-
-<div align="right">
  
 $${\color{#B8A38C}such consultation}$$
 
-</div>
+
 
 <div align="center">
  
