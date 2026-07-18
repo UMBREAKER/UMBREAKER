@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=UMBREAKER&label=TRASH+BEASTS&color=000000)
+![](https://komarev.com/ghpvc/?username=UMBREAKER&label=CLIENTS&color=6C3926)
 
 </div>
 
