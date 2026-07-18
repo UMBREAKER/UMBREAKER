@@ -20,7 +20,7 @@
 
 <div align="center">
  
-$${\color{#ffffff}hansel}$$
+$${\color{#724128}hansel}$$
 
 </div>
 
@@ -34,7 +34,7 @@ $${\color{#ffffff}hansel}$$
 
 <div align="center">
  
-$${\color{#ffffff}he . him}$$
+$${\color{#B8A38C}he . him}$$
 
 </div>
 
