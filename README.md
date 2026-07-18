@@ -15,13 +15,11 @@
  
 <img width="1500" height="429" alt="Untitled444_20260718222744" src="https://github.com/user-attachments/assets/3034f915-6308-49a8-83da-244889b3e13c" />
 
-</div>
+
+$${/color{#744229}}$$
 
 
-
-
-
-<div align="center">
+div align="center">
  
 <img width="845" height="490" alt="Untitled443_20260718212634" src="https://github.com/user-attachments/assets/d4243b8b-5d14-439d-a477-a68c156a73ed" />
 
