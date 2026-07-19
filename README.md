@@ -4,7 +4,8 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=UMBREAKER&label=CLIENTS&color=301A11)
+![](https://komarev.com/ghpvc/?username=UMBREAKER&label=CLIENTS&color=301A11)<img width="20" height="20" alt="IMG_3222" src="https://github.com/user-attachments/assets/669607c6-fe45-480a-b574-7dc351c16afb" />
+
 
 </div>
 
@@ -25,8 +26,7 @@ ${{\color{#54281d}\normalsize{\texttt {spirit} }}}$ ${{\color{#713f28}\normalsiz
 ‎
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-‎ ‎ ‎ ‎ ‎ ‎ ${{\color{#89583F}\normalsize{\texttt {such} }}}$ ${{\color{#bdbaa3}\normalsize{\texttt {consultation} }}}$ ‎ <img width="20" height="20" alt="IMG_3223" src="https://github.com/user-attachments/assets/4935aac7-e2f3-4aa2-a75b-fa62ef795b1b" />
-
+‎ ‎ ‎ ‎ ‎ ‎ ${{\color{#89583F}\normalsize{\texttt {such} }}}$ ${{\color{#bdbaa3}\normalsize{\texttt {consultation} }}}$ ‎ 
 
 ‎
 </div>
