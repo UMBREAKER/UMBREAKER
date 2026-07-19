@@ -34,16 +34,14 @@
 
 <div align="center">
  
+<img width="222" height="181" alt="Untitled446_20260719104652" src="https://github.com/user-attachments/assets/2376e727-9725-41ef-82bb-179817c0a97d" />
 
 
 </div>
 
 <div align="center">
  
-| [alex](https://github.com/zoobpex) | [lav](https://github.com/holysilas) | [yoomi](https://github.com/itsyoomi) |
-| :--- | ---: | :---: |
-| [shino](https://github.com/0rganslover) | [ren](https://github.com/nvthingmore) | [andre](https://github.com/itsmeandrel) |
-| [ken](https://github.com/kennethwhen) | [dani](https://github.com/FORZA-FERRARl) | ♡ |
+ ♡ |
 
 </div>
 
