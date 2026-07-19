@@ -15,13 +15,10 @@
  
 <img width="1500" height="429" alt="Untitled444_20260718222744" src="https://github.com/user-attachments/assets/3034f915-6308-49a8-83da-244889b3e13c" />
 
+</div>
 
-<div align="center">
- 
-| [alex](https://github.com/zoobpex) | [lav](https://github.com/holysilas) | [yoomi](https://github.com/itsyoomi) |
-| :--- | ---: | :---: |
-| [shino](https://github.com/0rganslover) | [ren](https://github.com/nvthingmore) | [andre](https://github.com/itsmeandrel) |
-| [ken](https://github.com/kennethwhen) | [dani](https://github.com/FORZA-FERRARl) | ♡ |
+${{\color{#fac194}\normalsize{\texttt {spirit} }}}$ ${{\color{#fac194}\normalsize{\texttt {and} }}}$ ${{\color{#fac194}\normalsize{\texttt {such} }}}$ ${{\color{#fac194}\normalsize{\texttt {consultation} }}}$
+
 
 </div>
 
@@ -32,6 +29,15 @@
 <div align="center">
  
 
+
+</div>
+
+<div align="center">
+ 
+| [alex](https://github.com/zoobpex) | [lav](https://github.com/holysilas) | [yoomi](https://github.com/itsyoomi) |
+| :--- | ---: | :---: |
+| [shino](https://github.com/0rganslover) | [ren](https://github.com/nvthingmore) | [andre](https://github.com/itsmeandrel) |
+| [ken](https://github.com/kennethwhen) | [dani](https://github.com/FORZA-FERRARl) | ♡ |
 
 </div>
 
