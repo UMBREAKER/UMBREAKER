@@ -21,12 +21,7 @@
 <div align="center">
  
 ‎ ‎ ‎ ‎ ‎ ‎
-${{\color{#54281d}\normalsize{\texttt {Greatest} }}}$ ${{\color{#713f28}\normalsize{\texttt {Psychic} }}}$ ‎ 
-
-‎
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-‎ ‎ ‎ ‎ ‎ ‎ ${{\color{#89583F}\normalsize{\texttt {of the} }}}$ ${{\color{#bdbaa3}\normalsize{\texttt {21st Century} }}}$ ‎ 
+<img width="1500" height="429" alt="Untitled444_20260719103939" src="https://github.com/user-attachments/assets/4c5127ab-8d49-4715-8888-86e31c308716" />
 
 ‎
 </div>
