@@ -35,12 +35,6 @@
 
 <div align="center">
  
- ♡ |
-
-</div>
-
-<div align="center">
- 
 <img width="99" height="56" alt="IMG_3158" src="https://github.com/user-attachments/assets/fbee8bac-bcb6-4963-b89d-9b6d5e17f690" />
 <img width="99" height="56" alt="IMG_3166" src="https://github.com/user-attachments/assets/256bec45-1577-490e-aa0e-fb1627a1333a" />
 
