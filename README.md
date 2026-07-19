@@ -17,12 +17,17 @@
 
 </div>
 
-<div align=" left">
+<div align="center">
  
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ${{\color{#54281d}\normalsize{\texttt {spirit} }}}$ ${{\color{#713f28}\normalsize{\texttt {and} }}}$ ‎ 
+‎ ‎ ‎ ‎ ‎ ‎
+${{\color{#54281d}\normalsize{\texttt {spirit} }}}$ ${{\color{#713f28}\normalsize{\texttt {and} }}}$ ‎ 
 
 ‎
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ${{\color{#89583F}\normalsize{\texttt {such} }}}$ ${{\color{#bdbaa3}\normalsize{\texttt {consultation} }}}$ ‎ 
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+‎ ‎ ‎ ‎ ‎ ‎ ${{\color{#89583F}\normalsize{\texttt {such} }}}$ ${{\color{#bdbaa3}\normalsize{\texttt {consultation} }}}$ ‎ <img width="20" height="20" alt="IMG_3223" src="https://github.com/user-attachments/assets/4935aac7-e2f3-4aa2-a75b-fa62ef795b1b" />
+
+
 ‎
 </div>
 
