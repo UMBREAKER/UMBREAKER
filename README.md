@@ -19,10 +19,10 @@
 
 <div align=" left">
  
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ${{\color{#fac194}\normalsize{\texttt {spirit} }}}$ ${{\color{#fac194}\normalsize{\texttt {and} }}}$ ‎ 
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ${{\color{#241213}\normalsize{\texttt {spirit} }}}$ ${{\color{#5E2C21}\normalsize{\texttt {and} }}}$ ‎ 
 
 ‎
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ${{\color{#fac194}\normalsize{\texttt {such} }}}$ ${{\color{#fac194}\normalsize{\texttt {consultation} }}}$ ‎ 
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ${{\color{#89583F}\normalsize{\texttt {such} }}}$ ${{\color{#bdbaa3}\normalsize{\texttt {consultation} }}}$ ‎ 
 ‎
 </div>
 
