@@ -21,12 +21,12 @@
 <div align="center">
  
 ‎ ‎ ‎ ‎ ‎ ‎
-${{\color{#54281d}\normalsize{\texttt {spirit} }}}$ ${{\color{#713f28}\normalsize{\texttt {and} }}}$ ‎ 
+${{\color{#54281d}\normalsize{\texttt {Greatest} }}}$ ${{\color{#713f28}\normalsize{\texttt {Psychic} }}}$ ‎ 
 
 ‎
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-‎ ‎ ‎ ‎ ‎ ‎ ${{\color{#89583F}\normalsize{\texttt {such} }}}$ ${{\color{#bdbaa3}\normalsize{\texttt {consultation} }}}$ ‎ 
+‎ ‎ ‎ ‎ ‎ ‎ ${{\color{#89583F}\normalsize{\texttt {of the} }}}$ ${{\color{#bdbaa3}\normalsize{\texttt {21st Century} }}}$ ‎ 
 
 ‎
 </div>
