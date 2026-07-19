@@ -17,8 +17,7 @@
 
 <div align="center">
   ‎ ‎ ‎ ‎ ‎
-<img width="1500" height="429" alt="Untitled444_20260719103939" src="https://github.com/user-attachments/assets/4c5127ab-8d49-4715-8888-86e31c308716" />
-‎
+<img width="1500" height="429" alt="Untitled444_20260719110540" src="https://github.com/user-attachments/assets/b976d15d-ab8c-44a8-8d19-30a08678c6a2" />
 </div>
 
 <div align="center">
