@@ -22,7 +22,7 @@
 
 <div align="center">
  
-<img width="845" height="490" alt="Untitled443_20260718212634" src="https://github.com/user-attachments/assets/d4243b8b-5d14-439d-a477-a68c156a73ed" />
+<img width="845" height="490" alt="Untitled443_20260723233427" src="https://github.com/user-attachments/assets/7288ffd4-0562-48a0-b353-7d9c5cf2aa74" />
 
 </div>
 
