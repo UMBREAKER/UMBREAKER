@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=UMBREAKER&label=IMPURITIES_COUNT&color=000000)<img width="20" height="20" alt="IMG_3222" src="https://github.com/user-attachments/assets/669607c6-fe45-480a-b574-7dc351c16afb" />
+![](https://komarev.com/ghpvc/?username=UMBREAKER&label=୨୧&color=000000)<img width="20" height="20" alt="IMG_3222" src="https://github.com/user-attachments/assets/669607c6-fe45-480a-b574-7dc351c16afb" />
 
 
 </div>
