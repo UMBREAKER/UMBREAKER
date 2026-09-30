@@ -13,4 +13,8 @@
  
 <img width="2048" height="2048" alt="1000016763" src="https://github.com/user-attachments/assets/0ef8fbf9-120c-4702-bc68-58479cc6f31e" />
 
+$$\mathbb{ocxcanon_slop}$$ (≧ヮ≦)
+
+
+
 </div>
