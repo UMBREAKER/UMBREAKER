@@ -11,9 +11,9 @@
 
 <div align="center">
  
-<img width="2048" height="2048" alt="1000016763" src="https://github.com/user-attachments/assets/0ef8fbf9-120c-4702-bc68-58479cc6f31e" />
+<img width="500" height="500" alt="IMG_3988" src="https://github.com/user-attachments/assets/a6ccbba1-8c7d-449a-8844-0f34b2d9739e" />
 
-$$\mathbb{ocxcanon_slop}$$ (≧ヮ≦)
+(≧ヮ≦)
 
 
 
